@@ -1,5 +1,5 @@
-# unisi-biblio-checker
-A simple python tool for checking the status of each library in Siena
+# unisi-biblio-checker 🎓
+A simple python tool for checking the status of each library in Siena📚
 
 ![image](https://user-images.githubusercontent.com/20042147/148055908-33611492-d4f8-4160-95ab-b14306dad0ee.png)
 
