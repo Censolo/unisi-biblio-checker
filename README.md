@@ -9,10 +9,10 @@ Open libraries will output n° of available spots for study.
 
 * * *
 ## REQUIREMENTS
-- Python >= 3.0.0 required
-- stable internet connection
+- 🐍Python >= 3.0.0 required
+- 🌐stable internet connection
 
 * * *
-## USAGE
+## USAGE 💻
 Run the following command inside the project folder:
 `python unisi-bib-chk.py`
