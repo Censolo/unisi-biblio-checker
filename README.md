@@ -17,6 +17,6 @@ Open libraries will output n° of available spots for study.
 You can download just *unisi-bib-chk.pyz*
 
 Run the following command inside the project folder:
-`.\python unisi-bib-chk.pyz`
+`.\unisi-bib-chk.pyz`
 
 Done ✔
