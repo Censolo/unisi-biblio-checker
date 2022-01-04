@@ -14,7 +14,12 @@ Open libraries will output n° of available spots for study.
 
 * * *
 ## USAGE 💻
+You can download jsut the *unisi-bib-chk.pyz* file
+
 Run the following command inside the project folder:
 `.\unisi-bib-chk.pyz`
 
 Done ✔
+
+## NOTE
+The dependencies are included inside the zipped .pyz file, they are omitted in the gh files. to get them yourself for development check [request library page](https://pypi.org/project/requests/).
