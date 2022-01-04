@@ -21,5 +21,5 @@ Run the following command inside the project folder:
 
 Done ✔
 
-## NOTE
+## DEVELOPER INFO 🔬
 The dependencies are included inside the zipped .pyz file, they are omitted in the gh files. to get them yourself for development check [request library page](https://pypi.org/project/requests/).
