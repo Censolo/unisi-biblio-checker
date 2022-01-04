@@ -9,7 +9,7 @@ Open libraries will output n° of available spots for study.
 
 * * *
 ## REQUIREMENTS
-- 🐍Python $\geq$ 3.0.0 required
+- 🐍Python >= 3.0.0 required
 - 🌐stable internet connection
 
 * * *
