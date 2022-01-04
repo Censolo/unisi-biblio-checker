@@ -10,6 +10,7 @@ Open libraries will output n° of available spots for study.
 * * *
 ## REQUIREMENTS
 - 🐍Python >= 3.0.0 required
+- *requests* Python library installed (view [requests library](https://pypi.org/project/requests/) for installation walk-through)
 - 🌐stable internet connection
 
 * * *
