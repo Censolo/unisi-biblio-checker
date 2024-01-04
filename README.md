@@ -14,7 +14,7 @@ Open libraries will output n° of available spots for study.
 
 * * *
 ## USAGE 💻
-You can download jsut the *unisi-bib-chk.pyz* file
+You can download just the *unisi-bib-chk.pyz* file
 
 Run the following command inside the project folder:
 `.\unisi-bib-chk.pyz`
